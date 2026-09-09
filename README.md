@@ -2,7 +2,7 @@
 
 🚀 Aspiring DevOps Engineer, based in Delhi NCR, India.
 
-🌐 [Portfolio](https://v0-hahapratik.vercel.app/) · 💼 [LinkedIn](https://linkedin.com/in/pratikkumarverman) · 📧 [Email](mailto:pratikvermann@gmail.com)
+🌐 [Portfolio](https://pratikv.vercel.app/) · 💼 [LinkedIn](https://linkedin.com/in/pratikkumarverman) · 📧 [Email](mailto:pratikvermann@gmail.com)
 
 🛠️ Building a full DevOps lab — CI/CD with Jenkins & Docker, IaC with Terraform, GitOps with Argo CD on Kubernetes.
 
@@ -48,8 +48,8 @@ Python, Java, C, C++, Javascript, HTML, CSS
 
 ### 🌐 Portfolio
 
-[v0-hahapratik.vercel.app](https://v0-hahapratik.vercel.app/) — terminal-themed developer portfolio, built with Next.js ⚡, deployed on Vercel ▲. Boot animation, live GitHub activity, skills breakdown, and resume download.
+[pratikv.vercel.app](https://pratikv.vercel.app/) — terminal-themed developer portfolio, built with Next.js ⚡, deployed on Vercel ▲. Boot animation, live GitHub activity, skills breakdown, and resume download.
 
 ### 🤝 Let's connect
 
-Always up for talking pipelines, Kubernetes, or DevOps in general. Drop by my [portfolio](https://v0-hahapratik.vercel.app/) or say hi on [LinkedIn](https://linkedin.com/in/pratikkumarverman) 🙌
+Always up for talking pipelines, Kubernetes, or DevOps in general. Drop by my [portfolio](https://pratikv.vercel.app/) or say hi on [LinkedIn](https://linkedin.com/in/pratikkumarverman) 🙌
