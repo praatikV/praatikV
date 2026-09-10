@@ -12,7 +12,7 @@
 
 📍 Delhi NCR, India
 
-### 🧰 Tools
+### 🧰 Tool
 
 **📦 Containers & Orchestration** :
 Docker, Kubernetes, Argo CD
