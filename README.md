@@ -34,7 +34,7 @@ Python, Java, C, C++, Javascript, HTML, CSS
 
 ### 🏗️ Projects
 
-- 🔧 [jenkins-demo](https://github.com/praatikV/jenkins-demo) — Jenkins CI lab on a Python codebase
+- 🔧 [jenkins](https://github.com/praatikV/jenkins) — Jenkins CI lab on a Python codebase
 
 - 🚀 [jenkins-cicd-demo](https://github.com/praatikV/jenkins-cicd-demo) — Jenkins + Docker + Argo CD pipeline, commit to deploy
 
